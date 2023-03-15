@@ -1,0 +1,31 @@
+Briefing
+
+Nome da Empresa:
+MeiaBásica
+
+Como nasceu:
+Nasceu a partir da ideia de produzir produtos, especificamente meias, que não remetessem a nenhuma marca.
+
+Quantidade de funcinários:
+10.
+
+Tempo de mercado:
+2 anos.
+
+Produtos oferecidos:
+Apenas meias básicas.
+
+Público-alvo:
+Jovens e adultos.
+
+Tipo de site:
+e-commerce.
+
+Idioma:
+Português.
+
+Páginas:
+Home e cards para cada produto.
+
+Terá recursos:
+Não.
